@@ -109,8 +109,6 @@ which gives
 .../project/backend/env/bin/python3
 ```
 
-`...` means your upper folder directory.
-
 8. Then you need to install python packages using the following command:
 
 ```shell
